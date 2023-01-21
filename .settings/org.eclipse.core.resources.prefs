@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/epssgt/www/ws_contratos_eps/AM_ContratosResult.java=UTF-8
+encoding//src/com/epssgt/www/ws_contratos_eps/Cambiar_EstadoResult.java=UTF-8
+encoding//src/com/epssgt/www/ws_contratos_eps/Consultar_EstadoResult.java=UTF-8
+encoding//src/com/epssgt/www/ws_contratos_eps/Ws_contratos_eps.java=UTF-8
+encoding//src/com/epssgt/www/ws_contratos_eps/Ws_contratos_epsLocator.java=UTF-8
+encoding//src/com/epssgt/www/ws_contratos_eps/Ws_contratos_epsSoap.java=UTF-8
+encoding//src/com/epssgt/www/ws_contratos_eps/Ws_contratos_epsSoapStub.java=UTF-8
+encoding/<project>=UTF-8
